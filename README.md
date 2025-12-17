@@ -9,7 +9,7 @@ Hello! I'm Moses Tampuori 🤓, a data analyst and educator with a passion for t
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-**- ✅ Data Analytics Consulting.**
+**- ✅ Data Cleaning and Transformation.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
@@ -17,7 +17,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -53,15 +53,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:mosestampuori99@gmail.com">mosestampuori99@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(233) 247-612-113</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>PH, Ghana</td>
     </tr>
     <tr>
       <td>⬇️</td>
